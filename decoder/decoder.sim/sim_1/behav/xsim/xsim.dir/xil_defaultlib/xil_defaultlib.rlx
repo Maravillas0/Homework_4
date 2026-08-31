@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/decoder/decoder.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+D:/decoder/decoder.srcs/sim_1/new/decoder_tb.sv,1788166844,systemVerilog,,,,decoder_tb,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/decoder/decoder.srcs/sources_1/new/decoder.sv,1788166741,systemVerilog,,D:/decoder/decoder.srcs/sim_1/new/decoder_tb.sv,,decoder,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
