@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+D:/Homework_4/Latch/Latch.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+D:/Homework_4/Latch/Latch.srcs/sim_1/new/latch_tb.sv,1788169019,systemVerilog,,,,latch_tb,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+D:/Homework_4/Latch/Latch.srcs/sources_1/new/latch.sv,1788171775,systemVerilog,,D:/Homework_4/Latch/Latch.srcs/sim_1/new/latch_tb.sv,,latch,,uvm,C:/Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
